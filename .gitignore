@@ -1,0 +1,17 @@
+# Ignore build dir  (*.o)
+build/*
+
+# Ignore lib dir (*.a)
+lib/*
+
+# Ignore doc dir
+doc/html/*
+
+# Ignore any executables
+bin/*
+
+# Ignore any test
+test/*
+
+# Ignore Mac specific files
+.DS_Store
